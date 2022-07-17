@@ -300,7 +300,7 @@ sausage,","shrimp paste, lime, chili",shrimp paste with spices,"shrimp paste, li
 288,57,,,oPkNq4RjOWU,fried chicken,fried chicken,,90,04:18,05:48,,0,,,,,casual,hands_on,0,3,2,5,HN,1
 289,57,,,oPkNq4RjOWU,sushi,sushi,,155,06:13,08:48,"seaweed, salmon, rice",3,"seaweed, salmon, rice",,,,casual,hands_on,0,4,2,4,HN,1
 290,57,,,oPkNq4RjOWU,pho,pho,phở,198,09:36,12:54,"beef, rice noodle, garlic",3,"beef, rice noodle, garlic",chili sauce,chili sauce with spices,hot sauce,casual,bowl,0,4,2,5,HN,1
-291,58,,,_L6uA_kKldc,vegetarian buffet,vegetarian buffet,buffet chay,1359,00:37,23:16,"rice, salad, tofu, mushroom, cucumber, pumpkin soup, chili",7,"rice, salad, vegan, tofu, mushrooms, cucumber, pumpkin soup, chili","scallion, oil",,scallion sauce,casual,plate,0,4,2,5,HN,1
+291,58,,,_L6uA_kKldc,vegetarian buffet,vegetarian buffet,buffet chay,200,00:37,23:16,"rice, salad, tofu, mushroom, cucumber, pumpkin soup, chili",7,"rice, salad, vegan, tofu, mushrooms, cucumber, pumpkin soup, chili","scallion, oil",,scallion sauce,casual,plate,0,4,2,5,HN,1
 292,59,,,QXGyszq4pic,steamed rolled rice pancake,,bánh cuốn,324,01:01,06:25,"coriander, meat, chili, papaya, carrot",5,"coriander, meat, chili, papaya, carrot",fish sauce,fish sauce with spices,nước mắm,street,plate,0,4,2,5,HN,1
 293,60,,,F15RijUo1_U,fired stink bugs,stink bugs,,7,02:18,02:25,,0,,,,,casual,plate,0,3,2,4,HN,1
 294,60,,,F15RijUo1_U,fried bee larvae,fried bee larvae,,42,02:29,03:11,,0,,,,,casual,plate,0,4,2,4,HN,1
@@ -1062,7 +1062,7 @@ cinnamon chives, herbs
 1046,263,SE160513,Thái Võ Quốc Huy,xPmIX9z4aPc,"grilled chicken, grilled pork belly with kimchi",,,45,00:10,00:55,,0,,,,,casual,plate,0,2,2,2,Ho Chi Minh,1
 1047,263,SE160513,Thái Võ Quốc Huy,xPmIX9z4aPc,stir-fried macaroni with beef,nui xao bo,nui xào bò,132,05:42,07:54,"maccaroni, eggs, beef",3,"maccaroni, eggs, beef",,,,street,plate,0,2,2,2,Ho Chi Minh,1
 1048,263,SE160513,Thái Võ Quốc Huy,xPmIX9z4aPc,fryed sandwich,,,68,15:04,16:12,,0,,,,,fine,plate,0,4,4,3,Ho Chi Minh,1
-1049,264,SE160513,Thái Võ Quốc Huy,lfjBOXH-Nxc,"deep-fried sticky rice, chicken santi mocha, tomato gratinated with cheese, egg yolk fritata",xoi chien gion,"xôi chiên giòn, gà nướng sốt tiêu, cà chua phô mai đút lò, trứng chiên kiểu ý",1115,05:45,24:20,,0,,,,,fine,plate,0,2,2,2,Phu Quoc,0
+1049,264,SE160513,Thái Võ Quốc Huy,lfjBOXH-Nxc,"deep-fried sticky rice, chicken santi mocha, tomato gratinated with cheese, egg yolk fritata",xoi chien gion,"xôi chiên giòn, gà nướng sốt tiêu, cà chua phô mai đút lò, trứng chiên kiểu ý",300,05:45,24:20,,0,,,,,fine,plate,0,2,2,2,Phu Quoc,0
 1050,265,SE160513,Thái Võ Quốc Huy,ZWzpcKHcfS4,banh mi,banh mi,bánh mì,180,01:44,04:44,,0,,,,,street,hands_on,0,4,4,4,Sai Gon,1
 1051,265,SE160513,Thái Võ Quốc Huy,ZWzpcKHcfS4,banh mi,banh mi cha ca,Bánh mì chả cá,110,05:22,07:12,mackerel,1,mackerel,,,,street,hands_on,0,4,4,4,Sai Gon,1
 1052,266,SE160513,Thái Võ Quốc Huy,tonPaUbS-bU,Vegan rice,,Cơm chay,45,01:50,02:35,,0,,,,,casual,bowl,0,4,4,4,Phu Quoc,1
@@ -1346,7 +1346,7 @@ cinnamon chives, herbs
 1328,346,SE160466,Nguyễn Cang Trường,Qo7en2bs8pU,Vietnamese salad spring roll,guy klum,gỏi cuốn,60,17:10,18:10,"prawn, herbs, noodle",3,"prawn, herbs, noodle",peanuts,peanut sauce,peanut sauce,casual,plate,0,3,3,4,HCM,1
 1329,346,SE160466,Nguyễn Cang Trường,Qo7en2bs8pU,Vietnamese pancake,ben sale,bánh xèo,81,18:53,20:14,"mung bean sprouts, pork, fresh vegetables",3,"mung beans, bean sprout, pork, herbs",,,,casual,plate,0,3,3,4,HCM,1
 1330,347,SE161439,Nguyễn Hữu Đức,zRzZV3JpMOc,Vietnamese steamed rice rolls,bánh cuốn đặc biệt,Bánh cuốn,75,00:30,01:45,"rice noodle roll, mince pork, mushroom, fried onion, bean sprout",5,"rice noodle roll, mince pork, mushroom, fried onion, bean sprout",fish sauce,fish sauce,fish sauce,casual,plate,0,4,5,5,HCM,1
-1331,347,SE161439,Nguyễn Hữu Đức,zRzZV3JpMOc,Pork bologna,chả,chả,1560,01:07,27:07,pork meat,1,pork meat,,,,casual,plate,0,4,4,3,HCM,1
+1331,347,SE161439,Nguyễn Hữu Đức,zRzZV3JpMOc,Pork bologna,chả,chả,200,01:07,27:07,pork meat,1,pork meat,,,,casual,plate,0,4,4,3,HCM,1
 1332,347,SE161439,Nguyễn Hữu Đức,zRzZV3JpMOc,Vietnamese steamed rice rolls,normal bánh cuốn,Bánh cuốn,14,01:45,01:59,,0,,,,,casual,plate,0,4,5,5,HCM,1
 1333,347,SE161439,Nguyễn Hữu Đức,zRzZV3JpMOc,Egg coffee ,egg coffee ,cà phê trứng,42,02:04,02:46,"egg foam, coffee ",2,"egg foam, coffee",,,,casual,glass,0,4,5,4,HCM,1
 1334,347,SE161439,Nguyễn Hữu Đức,zRzZV3JpMOc,Matcha egg coffee ,matcha egg coffee ,matcha cà phê trứng,68,02:13,03:21,"egg foam, coffee, matcha",3,"egg foam, coffee, matcha",,,,casual,glass,0,4,5,4,HCM,1
@@ -2143,7 +2143,7 @@ snail vermicelli soup",bun oc,bún ốc,102,01:42,03:24,"rice noodles, salt, sna
 2115,592,SE160895,Nguyễn Xuân Duy,GuoYbgGQLxk,fried rice,fried rice,cơm chiên ,21,06:44,07:05,"chicken, beef, pepper",3,"chicken, beef, pepper",,,,other,other,0,1,1,5,Ha Noi ,1
 2116,593,SE160895,Nguyễn Xuân Duy,97W-D4qQXwg,Steamed rice paper with chicken intestine,rice roll with chicken and chicken eggs,bánh ướt lòng gà,65,02:25,03:30,"rice flour, chicken, chicken egg, chicken intestine, ",5,"rice flour, chicken, chicken egg, chicken intestine, ",,,,casual,plate,0,4,4,5,Da Lat ,1
 2117,593,SE160895,Nguyễn Xuân Duy,97W-D4qQXwg,"grilled chicken, bamboo-tube rice","grilled chicken, bamboo rice","gà nướng, cơm lam",352,19:35,25:27,garlic,1,garlic,,,,fine,tray,0,4,5,5,Da Lat ,1
-2118,593,SE160895,Nguyễn Xuân Duy,97W-D4qQXwg,fishcake noodle soup,fish cake vermicelli,bún chả cá,1662,07:23,35:05,,0,,,,,other,bowl,0,3,3,5,Da Lat ,1
+2118,593,SE160895,Nguyễn Xuân Duy,97W-D4qQXwg,fishcake noodle soup,fish cake vermicelli,bún chả cá,250,07:23,35:05,,0,,,,,other,bowl,0,3,3,5,Da Lat ,1
 2119,594,SE160895,Nguyễn Xuân Duy,cJnGYIbj6zY,Grilled oyster with buttered green onions,Grilled oyster with buttered green onions,hàu nướng mỡ hành,8,02:20,02:28,,0,,,,,other,plate,0,2,2,5,Vung Tau ,0
 2120,594,SE160895,Nguyễn Xuân Duy,cJnGYIbj6zY,"banh mi, sticky rice ","banh mi, sticky rice","bánh mì, xôi",57,04:23,05:20,,0,,,,,street,hands_on,0,2,2,5,Vung Tau ,0
 2121,595,SE160895,Nguyễn Xuân Duy,cY8iuMLT_sU,banh mi,banh mi,bánh mì ,194,02:55,06:09,,0,,,,,casual,hands_on,0,2,2,5,Ha Noi ,1
@@ -2513,7 +2513,7 @@ Vietnamese pancake, pancakes","banh xeo, banh nam, banh bot loc","bánh xèo, b�
 2479,708,SE161415,Nguyễn Tiến Đạt,Xkqyq1KZnEU,Banh mi,bend mi,Bánh mì,193,06:43,09:56,"Charxiu, grilled pork, egg",3,"cecille, BBQ pork, egg",,,,other,hands_on,0,4,4,4,Ha Noi ,1
 2480,709,SE161415,Nguyễn Tiến Đạt,GVxJv6WJNuU,bread rolls,bun buns,Bánh giò,187,01:41,04:48,"bologna, cucumbers, pickled, wood ear mushroom, pork, winter mushrooms ",6,"jialuo, cucumbers, pickled, wood ear mushroom, pork, winter mushrooms ",chili,chili sauce,,casual,plate,0,4,4,4,Ha Noi ,1
 2481,710,SE161119,Nguyen Quoc Dat,QazB8VnjjzQ,Vietnamese Mini Pancake,Bankok,Banh khot,106,00:54,02:40,"dried shrimp floss, quail eggs, quid",3,"mung beans, shrimps, pancakes",,Fish sauce,Fish sauce and chili,street,hands_on,1,4,4,5,Sai Gon,1
-2482,710,SE161119,Nguyen Quoc Dat,QazB8VnjjzQ,Vietnamese Mini Pancake,Bankok,Banh khot,4876,02:44,24:00,"dried shrimp floss, quail eggs, quid",3,"mung beans, shrimps, pancakes",,Coconut Milk,Coconut Milk,street,hands_on,0,4,4,5,Sai Gon,1
+2482,710,SE161119,Nguyen Quoc Dat,QazB8VnjjzQ,Vietnamese Mini Pancake,Bankok,Banh khot,200,02:44,24:00,"dried shrimp floss, quail eggs, quid",3,"mung beans, shrimps, pancakes",,Coconut Milk,Coconut Milk,street,hands_on,0,4,4,5,Sai Gon,1
 2483,711,SE161119,Nguyen Quoc Dat,mS3y9fFQhjU,Vietnamese Beef Stew,Vietnamese Beef Stew,Bo Kho,4,02:58,03:02,"paprika, star anise, garlic, chili, ginger, and cloves",6,"paprika, star anise, garlic, chili, ginger, and cloves",,,,fine,pot,0,3,4,5,Ha Long,1
 2484,711,SE161119,Nguyen Quoc Dat,mS3y9fFQhjU,Vietnamese pancake,Vietnamese Crepe,Banh Xeo,14,05:01,05:15,"rice flour, water, and turmeric powder",3,"rice flour, water, and turmeric powder",,,,fine,plate,0,4,4,5,Ha Long,1
 2485,711,SE161119,Nguyen Quoc Dat,mS3y9fFQhjU,Aligator Spring Rolls,Aligator Meat,Banh Cuon Ca Sau,19,05:20,05:39,"Aligator meat, vegetable",2,"Aligator meat, vegetable",,,,fine,plate,0,4,4,5,Ha Long,1
